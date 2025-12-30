@@ -13,7 +13,7 @@ This project demonstrates core Object-Oriented Programming (OOP) principles in P
 - **Modularization** – Clean package structure with separate modules
 
 ### Product Types
-- **Physical Goods** (e.g., laptops): Include shipping cost ($5 per kg) and weight tracking
+- **Physical Goods** (e.g., laptops): Include shipping cost (₦200 per kg) and weight tracking
 - **Digital Goods** (e.g., e-books): No shipping cost, infinite stock, include download link
 
 ## Project Structure
@@ -45,8 +45,8 @@ This implementation goes **beyond** the basic requirements with:
 3. Open a terminal in the project root (where `main.py` is located)
 4. Run the program:
     (```bash
-        python main.py)
-5. Follow the prompts:
+           python main.py)
+6. Follow the prompts:
 - Type yes to add a product
 - Enter name, price, quantity, type (p for physical, d for digital)
 - For physical: enter weight (kg)
@@ -55,5 +55,5 @@ This implementation goes **beyond** the basic requirements with:
 6. View your formatted receipt with grouped items and totals!
 
 
-## Author -Adewale Victor
+## Author - Adewale Victor
 ## DataEpic Cohort 4 Capstone Project
