@@ -13,7 +13,7 @@ This project demonstrates core Object-Oriented Programming (OOP) principles in P
 - **Modularization** – Clean package structure with separate modules
 
 ### Product Types
-- **Physical Goods** (e.g., laptops): Include shipping cost ($5 per kg) and weight tracking
+- **Physical Goods** (e.g., laptops): Include shipping cost (₦200 per kg) and weight tracking
 - **Digital Goods** (e.g., e-books): No shipping cost, infinite stock, include download link
 
 ## Project Structure
